@@ -21,8 +21,8 @@ const Home = () => {
                 I have experience building and designing software.<br/>
                 Currently, I love to work on web aplications using technologies like
             </p>
-            <Typed className=' md:text-xl  md:pl-4 pl-2 text-[#36d8e7] text-xl py-4'
-            strings= {['React', 'Tailwind', 'MongodB']}
+            <Typed className=' md:text-xl  md:pl-4 pl-2 text-[#36e7d8] text-xl py-4'
+            strings= {['React', 'Tailwind', 'HTML','Javascript','CSS']}
             typeSpeed={120}
             backSpeed={140}
             loop
