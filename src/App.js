@@ -3,7 +3,11 @@ import Home from "./components/Home";
 import Sociallinks from "./components/Sociallinks";
 import About from "./components/About";
 import Skills from "./components/Skills";
-import Portfolio from "./components/Portfolio"
+import Portfolio from "./components/Portfolio";
+import Services from "./components/Services";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer"
+
 
 
 
@@ -16,6 +20,9 @@ function App() {
       <About/>
       <Skills/>
       <Portfolio/>
+      <Services/>
+      <Contact/>
+      <Footer/>
 
 
 
