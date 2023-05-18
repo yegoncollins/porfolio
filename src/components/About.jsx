@@ -17,7 +17,7 @@ const About = () => {
             <p className='mb-8 text-slate-200 ml-4'>
             Welcome to my portfolio! I'm Yegon Collins, a passionate web and mobile developer with a strong focus on front-end development and user experience. With a keen eye for detail and a love for crafting intuitive and visually stunning websites, I strive to create exceptional digital experiences that engage users and deliver results. Explore my work below and let's create something amazing together.
             </p>
-            <button className=' btn bg-gradient-to-r from-cyan-300 to-blue-500 cursor-pointer w-[200px]  text-white py-3 rounded-md font-medium my-6 mx-auto md:mx-0 px-6'>Contact Me</button>
+           
           </div>
         </div>
       </div>
