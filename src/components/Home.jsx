@@ -15,12 +15,13 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>
                     I Build & Design
                 </h2>
-                
+               <p className=' md:text-3xl my-3 font-bold md:pl-4 pl-2 text-[#feb786] text-xl'>Websites & Mobile Apps</p>
+            
             <p className='text-gray-500  max-w-md'>
                 I have experience building and designing software.<br/>
                 Currently, I love to work on web aplications using technologies like
             </p>
-           
+            <p className=' md:text-3xl my-3 font-bold md:pl-4 pl-2 text-[#36e7d8] text-xl'>React, Tailwind css & Javascript</p>
             <div>
                 <button className=' group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-300 to-blue-500 cursor-pointer'>
                     Portfolio
