@@ -2,7 +2,7 @@ import React from 'react'
 import Data from "../assets/data.png"
 import Stream from "../assets/streamit.png"
 import Card from "../assets/card.png"
-import Carental from "../assets/car-rental"
+import Carental from "../assets/carental.png"
 
 const Portfolio = () => {
     const newurl = url => {
