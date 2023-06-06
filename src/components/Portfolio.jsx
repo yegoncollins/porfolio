@@ -2,6 +2,7 @@ import React from 'react'
 import Data from "../assets/data.png"
 import Stream from "../assets/streamit.png"
 import Card from "../assets/card.png"
+import Carental from "../assets/car-rental"
 
 const Portfolio = () => {
     const newurl = url => {
@@ -20,6 +21,12 @@ const Portfolio = () => {
                 <img  className='rounded-md duration-200 hover:scale-105' src={Data} alt="" />
                 <div className='flex items-center justify-center'>
                     <button onClick={() => newurl('https://github.com/yegoncollins/data')} className='w-1/2 py-1 px-4 m-4 duration-200 hover:scale-105'>Code</button>
+                </div>
+            </div>
+            <div className='shadow-md shadow-gray-600 rounded-lg'>
+                <img  className='rounded-md duration-200 hover:scale-105' src={Carental} alt="" />
+                <div className='flex items-center justify-center'>
+                    <button onClick={() => newurl('https://github.com/yegoncollins/car-rental')} className='w-1/2 py-1 px-4 m-4 duration-200 hover:scale-105'>Code</button>
                 </div>
             </div>
             <div className='shadow-md shadow-gray-600 rounded-lg'>
